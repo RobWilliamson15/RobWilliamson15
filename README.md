@@ -33,13 +33,12 @@ I'm a PhD student at [Queen's University Belfast](https://pure.qub.ac.uk/en/pers
 - ✨ Football Addict 
 - ✨ Music Addict
   
+
+
+
+<img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RobWilliamson15.RobWilliamson&theme=radical)
-
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
-
 <!--
 **RobWilliamson15/RobWilliamson15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
