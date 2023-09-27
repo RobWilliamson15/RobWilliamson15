@@ -21,22 +21,19 @@ I'm a PhD student at [Queen's University Belfast](https://pure.qub.ac.uk/en/pers
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
+## 👋 About Me
+- ✨ Gaming Addict
+- ✨ Football Addict 
+- ✨ Music Addict 
+
+<img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
+
 ## 🔭 I’m currently working on
 - 🌱 My [PhD](https://pure.qub.ac.uk/en/persons/rob-williamson)
 - 🌱 Contributing more to open source projects
 - 🌱 Anything I can code in my spare time
   
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=RobWilliamson15&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-
-## 👋 About Me
-- ✨ Gaming Addict
-- ✨ Football Addict 
-- ✨ Music Addict
-  
-
-
-
-<img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RobWilliamson15.RobWilliamson&theme=radical)
 <!--
