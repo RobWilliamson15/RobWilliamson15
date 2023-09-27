@@ -5,6 +5,11 @@ I'm a PhD student at [Queen's University Belfast](https://pure.qub.ac.uk/en/pers
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rob-williamson-4ba61812b/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rwilliamson15@qub.ac.uk)
 
+## 👋 About Me
+- ✨ Gaming Addict 🎮
+- ✨ Football Addict ⚽
+- ✨ Music Addict 🎸
+
 ## ⚡ Technologies
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -21,12 +26,13 @@ I'm a PhD student at [Queen's University Belfast](https://pure.qub.ac.uk/en/pers
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-## 👋 About Me
-- ✨ Gaming Addict
-- ✨ Football Addict 
-- ✨ Music Addict 
 
-<img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
+<!--<img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">-->
+
+## 🎧 Now Playing
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/119121484)
+
 
 ## 🔭 I’m currently working on
 - 🌱 My [PhD](https://pure.qub.ac.uk/en/persons/rob-williamson)
