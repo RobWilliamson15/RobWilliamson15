@@ -24,15 +24,19 @@ I'm a PhD student at [Queen's University Belfast](https://pure.qub.ac.uk/en/pers
 - 🌱 My [PhD](https://pure.qub.ac.uk/en/persons/rob-williamson)
 - 🌱 Contributing more to open source projects
 - 🌱 Anything I can code in my spare time
+  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=RobWilliamson15&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
 ## 👋 About Me
 - ✨ Gaming Addict
 - ✨ Football Addict 
 - ✨ Music Addict
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=RobWilliamson15&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RobWilliamson15.RobWilliamson&theme=radical)
+
 <!--
 **RobWilliamson15/RobWilliamson15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
