@@ -31,11 +31,13 @@ I'm a PhD student at [Queen's University Belfast](https://pure.qub.ac.uk/en/pers
 - ✨ Gaming Addict
 - ✨ Football Addict 
 - ✨ Music Addict
-
+  
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RobWilliamson15.RobWilliamson&theme=radical)
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RobWilliamson15.RobWilliamson&theme=radical)
+
+
 
 <!--
 **RobWilliamson15/RobWilliamson15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
