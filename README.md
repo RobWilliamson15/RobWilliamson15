@@ -26,20 +26,22 @@ I'm a PhD student at [Queen's University Belfast](https://pure.qub.ac.uk/en/pers
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-
-<!--<img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">-->
-
-## 🎧 Now Playing
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/119121484)
-
-
 ## 🔭 I’m currently working on
 - 🌱 My [PhD](https://pure.qub.ac.uk/en/persons/rob-williamson)
 - 🌱 Contributing more to open source projects
 - 🌱 Anything I can code in my spare time
+
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=RobWilliamson15&count_private=true&show_icons=true&include_all_commits=true&theme=radical' width='400"'>
+
+<!--![Github Stats](https://github-readme-stats.vercel.app/api?username=RobWilliamson15&count_private=true&show_icons=true&include_all_commits=true&theme=radical)-->
   
-![Github Stats](https://github-readme-stats.vercel.app/api?username=RobWilliamson15&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+<!--<img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">-->
+
+## 🎧 Now Playing
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=119121484&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=119121484&redirect=true)
+
+  
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RobWilliamson15.RobWilliamson&theme=radical)
 <!--
