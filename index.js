@@ -8,7 +8,7 @@ const progressBarOfThisYear = generateProgressBar()
 let monthNames = ["Jan","Feb","Mar","Apr", "May","Jun","Jul","Aug", "Sep", "Oct","Nov","Dec"];
 
 function generateProgressBar() {
-    const progressBarCapacity = 20
+    const progressBarCapacity = 12
     const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
     const progressBar = Array(progressBarCapacity)
         .fill('▁')
