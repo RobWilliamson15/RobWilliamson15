@@ -5,7 +5,7 @@ I'm a PhD student at [Queen's University Belfast](https://pure.qub.ac.uk/en/pers
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rob-williamson-4ba61812b/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rwilliamson15@qub.ac.uk)
 
-⏳ **Year Progress** { ██████████████████████▁▁▁▁▁▁▁▁ } 76.31 % as on ⏰ 5-Oct-2023
+⏳ **Year Progress** { ███████████████▁▁▁▁▁ } 76.31 % as on ⏰ 5-Oct-2023
 
 ## 👋 About Me
 - ✨ Gaming Addict 🎮
