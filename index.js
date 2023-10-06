@@ -8,7 +8,7 @@ const progressBarOfThisYear = generateProgressBar()
 let monthNames = ["Jan","Feb","Mar","Apr", "May","Jun","Jul","Aug", "Sep", "Oct","Nov","Dec"];
 
 function generateProgressBar() {
-    const progressBarCapacity = 24
+    const progressBarCapacity = 12
     const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
     const progressBar = Array(progressBarCapacity)
         .fill('▁')
@@ -18,6 +18,7 @@ function generateProgressBar() {
 }
 
 const readme = `\
+⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${(new Date().getDate()-1)+'-'+ monthNames[new Date().getMonth()]+'-'+new Date().getFullYear()}
 ### Hi there，I'm Rob 🙋‍♂️
 I'm a PhD student at [Queen's University Belfast](https://pure.qub.ac.uk/en/persons/rob-williamson). Open to collaborating on innovative ideas, get in contact with me:
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
@@ -45,8 +46,6 @@ I'm a PhD student at [Queen's University Belfast](https://pure.qub.ac.uk/en/pers
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
-⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${(new Date().getDate()-1)+'-'+ monthNames[new Date().getMonth()]+'-'+new Date().getFullYear()}
 
 ## 🔭 I’m currently working on
 - 🌱 My [PhD](https://pure.qub.ac.uk/en/persons/rob-williamson)
