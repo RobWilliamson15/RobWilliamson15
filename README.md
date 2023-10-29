@@ -1,4 +1,4 @@
-⏳ **Year Progress** { █████████▁▁▁ } 82.33 % as on ⏰ 27-Oct-2023
+⏳ **Year Progress** { █████████▁▁▁ } 82.48 % as on ⏰ 28-Oct-2023
 ### Hi there，I'm Rob 🙋‍♂️
 I'm a PhD student at [Queen's University Belfast](https://pure.qub.ac.uk/en/persons/rob-williamson). Open to collaborating on innovative ideas, get in contact with me:
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
